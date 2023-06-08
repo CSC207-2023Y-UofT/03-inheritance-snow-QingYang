@@ -7,6 +7,7 @@
  */
 public class CrossbodyBag extends Bag
         {
+
             private int numberOfStraps;
             public int getNumberOfStraps()
             {

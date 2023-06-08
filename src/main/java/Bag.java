@@ -56,10 +56,6 @@ public abstract class Bag {
             return false;
     }
 
-
-
-
-
     public String popItem() {
         if (this.numberOfContents == 0)
             return null;

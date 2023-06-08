@@ -13,6 +13,7 @@ public class HandBag extends Bag{
          * This is how we call the parent's constructor
          * The Python equivalent is super().__init__(...)
          */
+
         super(color, capacity);
     }
 

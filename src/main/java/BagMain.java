@@ -23,6 +23,7 @@ class BagMain {
 
     }
 
+
     public static int countCrossbodyStraps(Bag[] bags) {
 
         int asw = 0;
